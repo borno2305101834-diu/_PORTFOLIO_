@@ -1,4 +1,4 @@
-#PERSONAL _PORTFOLIO_
+#PERSONAL _PORTFOLIO_ 
 
 A personal portfolio website showcasing my profile, education, technical skills, projects, achievements, and contact information. Built using HTML, CSS, and JavaScript with a clean and responsive design.  
 
@@ -17,23 +17,33 @@ Course Title:Web Computing
 Section: 64_K
 
 
-Features
+**Features**
 
-	Personal introduction and profile information
-	Educational background and technical skills
-	Academic and personal project showcase
-	Achievements and certifications
-	Contact information and contact form
-	Responsive and user-friendly design
-	Easy navigation between pages
+Personal introduction and profile
 
-Technologies Used
+Educational background
 
-	HTML5
-	CSS3
-	JavaScript
+Technical and soft skills
+
+Academic and personal projects
+
+Achievements and certifications
+
+Contact information and message form
+
+Responsive and user-friendly layout
+
+Easy navigation between pages
+
+**Technologies Used**
+
+HTML5 – Website structure
+
+CSS3 – Styling and layout design
+
+JavaScript – Interactive functionality
 
 
-Purpose
+**Purpose**
 
 The purpose of this project is to create a personal portfolio website where I can showcase my educational background, technical skills, projects, achievements, and contact information. It helps me present my work and learning journey in an organized way.
