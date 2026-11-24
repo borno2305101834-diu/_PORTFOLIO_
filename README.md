@@ -1,8 +1,8 @@
-#PERSONAL _PORTFOLIO_ 
+**#PERSONAL _PORTFOLIO_** 
 
 A personal portfolio website showcasing my profile, education, technical skills, projects, achievements, and contact information. Built using HTML, CSS, and JavaScript with a clean and responsive design.  
 
-Information
+**Information**
 
 Student Name: Umme Ammar Jannati Borno
 
@@ -34,6 +34,7 @@ Contact information and message form
 Responsive and user-friendly layout
 
 Easy navigation between pages
+
 
 **Technologies Used**
 
