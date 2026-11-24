@@ -1,4 +1,5 @@
 #PERSONAL _PORTFOLIO_
+
 A personal portfolio website showcasing my profile, education, technical skills, projects, achievements, and contact information. Built using HTML, CSS, and JavaScript with a clean and responsive design.  
 
 Information
@@ -13,19 +14,19 @@ Section: 64_K
 
 Features
 
-Personal introduction and profile information
-Educational background and technical skills
-Academic and personal project showcase
-Achievements and certifications
-Contact information and contact form
-Responsive and user-friendly design
-Easy navigation between pages
+	Personal introduction and profile information
+	Educational background and technical skills
+	Academic and personal project showcase
+	Achievements and certifications
+	Contact information and contact form
+	Responsive and user-friendly design
+	Easy navigation between pages
 
 Technologies Used
 
-HTML5
-CSS3
-JavaScript
+	HTML5
+	CSS3
+	JavaScript
 
 
 Purpose
