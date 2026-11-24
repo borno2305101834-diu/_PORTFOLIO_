@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Contact | Umme Ammar Jannati Borno</title><link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+<header class="site-header"><nav class="nav container" aria-label="Main navigation">
+  <a class="brand" href="index.html"><img class="brand-photo" src="images/profile.jpg" alt="Profile photo placeholder"><span class="brand-name">Borno<span>.</span></span></a><button class="menu-toggle" aria-label="Toggle navigation" aria-expanded="false">☰</button>
+  <ul class="nav-links"><li><a href="index.html">Home</a></li><li><a href="about.html">About</a></li><li><a href="projects.html">Projects</a></li><li><a class="active" href="contact.html">Contact</a></li></ul>
+</nav></header>
+<main>
+<section class="page-hero"><div class="container"><h1>Contact Me</h1><p>Feel free to contact me for academic or professional conversations.</p></div></section>
+<section class="section container contact-layout">
+  <div class="contact-info"><h2>Let's Connect</h2><p>I would be happy to hear from you.</p>
+    <div class="contact-item"><span>✉</span><div><small>Email</small><a href="mailto:ummejannati5500@gmail.com">ummejannati5500@gmail.com</a></div></div>
+    <div class="contact-item"><span>☎</span><div><small>Phone</small><a href="tel:+8801732331054">+880 1732331054</a></div></div>
+    <div class="contact-item"><span>⌖</span><div><small>Present Address</small><p>Kazipara, Mirpur, Dhaka, Bangladesh</p></div></div>
+    <div class="contact-item"><span>⌖</span><div><small>Permanent Address</small><p>Bogura, Bangladesh</p></div></div>
+    <p class="external-link"><a href="https://www.daffodilvarsity.edu.bd/" target="_blank" rel="noopener">Daffodil International University ↗</a></p>
+  </div>
+  <form class="contact-form panel" id="contactForm">
+    <h2>Send a Message</h2>
+    <label for="fullName">Full Name</label><input id="fullName" name="fullName" type="text" placeholder="Enter your name" required>
+    <label for="email">Email Address</label><input id="email" name="email" type="email" placeholder="Enter your email" required>
+    <fieldset><legend>Preferred contact method</legend><label class="choice"><input type="radio" name="method" value="Email" required> Email</label><label class="choice"><input type="radio" name="method" value="Phone"> Phone</label></fieldset>
+    <label for="topic">Message Topic</label><select id="topic" name="topic" required><option value="">Select a topic</option><option>Academic discussion</option><option>Project collaboration</option><option>General inquiry</option></select>
+    <label class="choice checkbox-choice"><input type="checkbox" id="updates" name="updates"> I agree to be contacted about my message.</label>
+    <label for="message">Your Message</label><textarea id="message" name="message" rows="5" placeholder="Write your message..." required></textarea>
+    <button class="btn" type="submit">Submit Message</button>
+    <p id="formStatus" class="form-status" role="status" aria-live="polite"></p>
+    <p class="small-note">Demo form for coursework: it validates input in the browser but does not send or store messages.</p>
+  </form>
+</section></main>
+<footer class="site-footer"><div class="container footer-inner"><p>© 2026 Umme Ammar Jannati Borno</p><p>Personal Portfolio Website</p></div></footer>
+<script src="https://code.jquery.com/jquery-3.7.1.min.js"></script><script src="js/main.js"></script><script src="js/contact.js"></script>
+</body></html>
