@@ -1,8 +1,8 @@
-**#PERSONAL _PORTFOLIO_** 
+# PERSONAL _PORTFOLIO_
 
 A personal portfolio website showcasing my profile, education, technical skills, projects, achievements, and contact information. Built using HTML, CSS, and JavaScript with a clean and responsive design.  
 
-**Information**
+## Information
 
 Student Name: Umme Ammar Jannati Borno
 
@@ -17,34 +17,34 @@ Course Title:Web Computing
 Section: 64_K
 
 
-**Features**
+## Features
 
-Personal introduction and profile
+-Personal introduction and profile
 
-Educational background
+-Educational background
 
-Technical and soft skills
+-Technical and soft skills
 
-Academic and personal projects
+-Academic and personal projects
 
-Achievements and certifications
+-Achievements and certifications
 
-Contact information and message form
+-Contact information and message form
 
-Responsive and user-friendly layout
+-Responsive and user-friendly layout
 
-Easy navigation between pages
-
-
-**Technologies Used**
-
-HTML5 – Website structure
-
-CSS3 – Styling and layout design
-
-JavaScript – Interactive functionality
+-Easy navigation between pages
 
 
-**Purpose**
+## Technologies Used
+
+-HTML5 – Website structure
+
+-CSS3 – Styling and layout design
+
+-JavaScript – Interactive functionality
+
+
+## Purpose
 
 The purpose of this project is to create a personal portfolio website where I can showcase my educational background, technical skills, projects, achievements, and contact information. It helps me present my work and learning journey in an organized way.
